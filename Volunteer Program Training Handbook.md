@@ -1,11 +1,12 @@
 _Transcriber's Note: This document was keyed in on 2023-06-28_
-<style type="text/css">h1{text-transform: uppercase;}div,ul{list-style-type: none;}</style>
+<style type="text/css">h1{text-transform: uppercase;}</style>
 
 <!-- Cover Page -->
 Volunteer Program Training Handbook
 
 ---
 
+_Transcriber's Note: `ul{list-item-style: none;}` on this page._
 <!-- Page 1 (Inner Cover) -->
 <div style="text-align: center;">
 
@@ -58,3 +59,22 @@ To learn more about JBI, please visit [www.jbilibrary.org](http://www.jbilibrary
 ---
 
 <!-- Page 4 -->
+_Transcriber's Note: Illustration Omitted._
+# Welcome Team Members
+Creating Audio Publications for the JBI Library is a collaborative process.  Many lasting friendships have been formed at JBI over the years.  Your team members include a member of the JBI Staff, a Director and a Narrator.
+## Staff Supervisor
+Our technical staff will train and assist you in getting started, including the necessary adjustments of all audio equipment for ptimum sound quality.  They will always be available to answer questions and to aid with specific pronunciation problems.
+## Volunteering at JBI
+Our dedicated vokunteers are the heart of our organization.  You need no professional experience to be a JBI Volunteer.  You will be trained to work in our state-of-the-art studios to create quality recordings of magazines, newspapers and books.
+## As a Volunteer Director, you will:<!-- "dir" (image of clapboard) -->
+Work with a Narrator to create an excellent audio book by:
+* Monitoring the level and quality of the recording;
+* Documenting and ensuring correction of inadvertent errors or accidental omissions made by the volunteer Narrator;
+* Maintaining a recording session log sheet (see example on <a href="page-15">page 15</a>).
+## As a Volunteer Narrator, you will:<!-- "nar" (image of microphone on desk-stand) -->
+* Review and prepare your book or magazine before the scheduled session; 
+* Take direction from your Volunteer Director.
+
+---
+
+<!-- Page 5 -->
