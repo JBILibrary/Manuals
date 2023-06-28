@@ -78,3 +78,18 @@ Work with a Narrator to create an excellent audio book by:
 ---
 
 <!-- Page 5 -->
+# Overview
+## Orientation Session
+During an initial small group meeting you will receive an overview of JBI International's mission and library services.  You will also recieve information about the Volunteer Program, including evaluation, training and testing.
+## Evaluation
+The evaluation will consist of the prospective volunteer's review of a pre-recorded studio session.  This will allow studio staff to determine whether the trainee has the necessary level opf active listening skills to succeed in the training process.
+## Training
+Each trainee will be evaluated by one of our studio staff during an actual recording session.  Staff will evaluate the skill level of each trainee and will either promote the trainee to the Volunteer Program or suggest that more training may be needed.
+## Scheduling Sessions
+Once approved, you will be contacted by the Studio Manager to set up a schedule that works for you.  You will be assigned as either Director or Narrator.  Arriving early will give you a chance to meet your team members and to prepare together in our Volunteer Lounge (offering free coffee, tea and snacks).
+## Quality Control
+After you have been engaged in the process for a while, you may also be asked to Quality Control (QC) a completed project.  During this process, mistakes overlooked during recording are flagged, documented, and then re-recorded.  (see example on page 16).
+
+---
+
+<!-- Page 6 -->
