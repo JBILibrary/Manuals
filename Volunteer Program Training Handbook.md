@@ -93,3 +93,18 @@ After you have been engaged in the process for a while, you may also be asked to
 ---
 
 <!-- Page 6 -->
+_Transcriber's Note: Image of a recording session in the stuio floats here on the right.__
+# TRAINING
+Your staff trainer will cover all o the topics below in greater detail.  There will be plenty of time for questions as you learn at your own pace.  You can refer to this manual during training and use it for reference once you're working in the studio.  Staff will be certain that the booth is stocked with pencils and post-its and will also provide water and/or tea.
+## Prior to the Start of Recording<!-- "dir" "nar" -->
+Once a project is assigned, JBI will provide the Narrator with the script in advance of the scheduled session.  Review and familiarize yourself with the text and note any uncertainties about pronunciation.  Research the words in question and discuss with the Director before recording begins.
+
+Remove any bracelets, chains, or other jewelry that might create noise.  Some types of clothing such as heavily starched shirts and nylon jackets can also produce noise, especially when using <q>body language</q> (gestures with their arms and hands).  When working at JBI, please refrain from wearing any fragrances as some individuals may be sensitive or allergic to them.  All cell phones must be turned <span style="text-transform: uppercase;">off</span>!
+
+Once the Narrator is comfortably seated in the booth, the Staff Supervisor will adjust the microphone placement for optimal sound quality.
+## Microphone Placement<!-- "staff" (image of a person) "narr" -->
+The microphone (used with the <q>pop filter</q> to minimize the sounds of <q>plosives</q>: B, P, F, Th, W) should be placed approximately one foot from the Narrator's mouth.  The Staff Supervisor will place the microphone so that it will not interfere with the Narrator's ability to read the text, or cast a shadow on the script.  The closer the mic is to the Narrator, the less <q>room</q> (including ventilation fan noise) will be evident.  To minimize mouth noises, microphones may be moved to the 11:00 or 1:00 position, rather than aimed straight at the Narrator's mouth.
+
+---
+
+<!-- Page 7 -->
