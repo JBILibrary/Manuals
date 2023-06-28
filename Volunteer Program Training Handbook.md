@@ -112,7 +112,7 @@ The microphone (used with the <q>pop filter</q> to minimize the sounds of <q>plo
 The Narrator begins reading the script in a normal conversational tone so that the Staff Supervisor can set an accurate recording level.  Once that is done, the Narrator can adjust his/her own headphone level.  If headphone volume is too low, Narrators sometimes tend to speak louder.  The opposite is also true - if headphone volume is too high, some Narrators might pull back from normal speaking volume.  Once Narrators can hear themselves comfortably, it's time to adjust the level of the talk-back microphone.
 
 The talk-back <q>mic</q> allows for communication between the Director and Narrator.  It can be used in one of two ways: in the <q>puch to talk</q> mode, the talk back mic is active only when the button (bar switch) is depressed.  Or, the mic can be locked into the <q>on</q> position by depressing the bar switch and sliding it towards yourself.  Feel free to as yourt Staff Supervisor to demonstrate.  Directors, converse with your respective Narrators to establish communication and have them inform you when they hear your voice at a comfortable level.
-## Mixing Board (as shown on <a href="#page-14">page 14<a/>)<!-- "dir" -->
+## Mixing Board (as shown on <a href="#page-14">page 14</a>)<!-- "dir" -->
 This is where the levels are set for listening only.  Adjustments made here will not affect the actual recording.  The Director has his/her own headphone volume control separate from the one that the Narrator uses, although the balance between Narrator's microphone, the talk-back microphone, and playback from the computer will be the same balance for all.  If the Narrator is having difficulty hearing the talk-back microphone, slowly turn up the <q>trim</q> (knob above the level knob) to increased talk-back volume.  Please do not adjust the <q>EQ</q> knobs, as they will affect the quality of what you are hearing but not of what is being recorded.
 
 All adjustments should be made and tested before beginning the recording, so as to not break the flow of the session.  This should be done quickly and efficiently.  Don't wear out your Narrator with a lengthy rehearsal.  Make sure that the door to the recording booth is <u>completely closed</u> and sealed.  <u>Check this often!</u>
@@ -120,3 +120,22 @@ All adjustments should be made and tested before beginning the recording, so as 
 ---
 
 <!-- Page 8 -->
+## Role of the Director<!-- "dir" -->
+The Director provides guidance for accuracy as well as pacing, energy and intent.
+
+Potential Problem Areas:
+ * <span style="text-transform: uppercase;">Articulation</span>
+When in doubt, pause, go back and listen again, or re-record.  Make sure words are clear, accurate, and well articulated.
+ * <span style="text-transform: uppercase;">Pronunciation</span>
+If you're unsure of a word's correct pronunciation, check an online web site with audio samples of the word, such as [www.m-w.com](www.m-w.com).  In most cases someone on our staff will have the correct pronunciation of Hebrew and Yiddish words (or other languages).
+ * <span style="text-transform: uppercase;">Pacing</span>
+A nice natural mediaum pace should be maintained.  Point out politely if you feel that the Narrator is going too fast or to oslowly.
+ * <span style="text-transform: uppercase;">Sound Quality</span>
+During the recording session, the Director must listen carefully at all times to detect any change in sound quality.  This might be due to the Narrator's drifting from the original position in realation to the microphone.  If so, ask the Narrator to return to the original position, or re-adjust the microphone position so that you can re-record from the point where you first noticed the difference in sound quality.
+Changes in sound quality also include pops from the <q>plosives</q> (B, P, F, Th, W), excessive mouth noises and lip smacks, page turning or paper rustling, or noise created by jewelry or clothing.  If there are excessinve mouth noises, suggest that the Narrator hydrate his/her mouth (by drinking some water, warm tea, or eating a slice or two of green apple).  Problem stomach noises can be tamed by eating some bread or cookies.
+
+Remember to take breaks.  Ask your Narrator to tell you when he or she needs to take a break.  Many times within the first hour the reader is just <q>getting on a roll</q> and moving along at a good pace.  If so, you don't want to interrupt that.  If, however, you begin to notice that the Narrator is making an increasing number of mistakes or that the energy level has dropped - that's a good time to politely suggest a break.  And while it may sound obvious, everyone should use the rest room before resuming the recording session.
+
+---
+
+<!-- Page 9 -->
