@@ -108,3 +108,15 @@ The microphone (used with the <q>pop filter</q> to minimize the sounds of <q>plo
 ---
 
 <!-- Page 7 -->
+## Adjusting the Headphones and Talk-Back Microphone<!-- "dir" "narr" -->
+The Narrator begins reading the script in a normal conversational tone so that the Staff Supervisor can set an accurate recording level.  Once that is done, the Narrator can adjust his/her own headphone level.  If headphone volume is too low, Narrators sometimes tend to speak louder.  The opposite is also true - if headphone volume is too high, some Narrators might pull back from normal speaking volume.  Once Narrators can hear themselves comfortably, it's time to adjust the level of the talk-back microphone.
+
+The talk-back <q>mic</q> allows for communication between the Director and Narrator.  It can be used in one of two ways: in the <q>puch to talk</q> mode, the talk back mic is active only when the button (bar switch) is depressed.  Or, the mic can be locked into the <q>on</q> position by depressing the bar switch and sliding it towards yourself.  Feel free to as yourt Staff Supervisor to demonstrate.  Directors, converse with your respective Narrators to establish communication and have them inform you when they hear your voice at a comfortable level.
+## Mixing Board (as shown on <a href="#page-14">page 14<a/>)<!-- "dir" -->
+This is where the levels are set for listening only.  Adjustments made here will not affect the actual recording.  The Director has his/her own headphone volume control separate from the one that the Narrator uses, although the balance between Narrator's microphone, the talk-back microphone, and playback from the computer will be the same balance for all.  If the Narrator is having difficulty hearing the talk-back microphone, slowly turn up the <q>trim</q> (knob above the level knob) to increased talk-back volume.  Please do not adjust the <q>EQ</q> knobs, as they will affect the quality of what you are hearing but not of what is being recorded.
+
+All adjustments should be made and tested before beginning the recording, so as to not break the flow of the session.  This should be done quickly and efficiently.  Don't wear out your Narrator with a lengthy rehearsal.  Make sure that the door to the recording booth is <u>completely closed</u> and sealed.  <u>Check this often!</u>
+
+---
+
+<!-- Page 8 -->
