@@ -240,3 +240,16 @@ _Transcriber's Note: This section is dependent upon the presence of an illustrat
 ---
 
 <!-- Page 14 -->
+# <span style="text-transform: uppercase;">Quality Control (QC)</span><!-- "dir" "nar" "staff" -->
+## Stage 1
+Once a book or article is completed, it must be checked for accuracy!  Make note of (or remove by editing) al lfalse starts, flubs, and extraneous noises.  Watch for incorrect or questionable pronunciation.  Also, any major changes in volume or sound quality must be adjusted or re-recorded.
+## Stage 2
+If the imperfections in the original recording cannot be technically fixed or adjusted, then a pick-up session will be scheduled.  THe sentence or paragraph containing the flaw will be re-recorded, thus replacing the problem area.  Identify and agree upon the start and end points to be fixed.  Listen and review the newly recorded material, making sure that the sound quality and volume match.  Otherwise, make the proper adjustments and re-record.
+
+<div style="text-align: center;"><!-- image of JBI logo -->JBI International<br />Est. in 1931 as the Jewish Braille Institute</div>
+# <span style="text-transform: uppercase;">Thank You!</span>
+We know that your experience at JBI will be a satisfying one.  We hope that you will learn valuable skills and form lasting friendships with other volunteers.  The work you do here will educate, enlighten and entertain the thousands of visually impaired, blind, physically handicapped and reading disabled people throughout the world.  We appreciate your efforts on their behalf, and we sincerely thank you.
+
+---
+
+<!-- Page 15 -->
