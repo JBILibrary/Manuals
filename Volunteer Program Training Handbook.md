@@ -159,3 +159,33 @@ The progress of recording is reflected in the creation of a waveform, a visual r
 ---
 
 <!-- Page 10 -->
+## Reading the Waveform<!-- "dir" -->
+It is important to learn how to read waveforms so that the task of live editing is simplified.  You will learn to identify:
+* an indrawn breath
+* the initial <q>attack</q> of a word
+* various word endings
+* end of workd spacing versus end of sentence spacing
+## Mastering the Computer Keyboard<!-- "dir" -->
+Pre-set keyboard commands
+* Start recording
+* Stop recording
+* Rewind (10 seconds of rewind per tap of key)
+* Play (to review material already recorded)
+* Insert tone for separation of chapters or articles
+* Zoom in / Zoom out (to aid in accuracy during editing)
+* Adding markers for the purpose of identifying mistakes and edit points
+## Role of Narrator<!-- "narr" -->
+The Narrator records the text with the aid of the Director.  Narrators will rely on the Director to listen for and point out:
+* Mispronounced or flubbed words
+* Changes in sound quality
+* Changes in the Narrator's energy level or pacing
+
+The Director is always listening from the perspective of the JBI Library user to make sure that the intent of the material is clearly conveyed.
+* <span style="text-transform: uppercase;">Keep it Fresh</span>
+Your audience wants to beentertained and/or absorb information.  Use an appropriate energy level and maintain it.
+* <span style="text-transform: uppercase;">Pacing</span>
+Try to maintain a comfortable pace.
+
+---
+
+<!-- Page 11 -->
