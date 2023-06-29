@@ -211,7 +211,7 @@ It is also necessary to stop and re-record if any stay noises, such as knocks on
 ---
 
 <!-- Page 12 -->
-# <span style="text-transform: uppercase;">Punch-in-Free Editing Process</span>
+# <span style="text-transform: uppercase;">Punch-in-Free Editing Process</span><!-- "dir" -->
 In the current recording procedure, when a mistake occurs, the Director or Narrator stops the recording, and they discuss where to start re-recording.  The Director must find that spot on the waveform, place the blue line in the exact spot to ensure a proper edit, and then press <q>record</q>.  The Narrator hears the playback and then begins recording again.  This process, for anyone other than the most advanced Director and Narrator, is time consuming.  Although the Director may be a precision editor and place the blue line in the perfect spot, this does not ensure that the edit will be perfect.
 
 An alternative to this procedure is as follows: When the Narrator makes a mistake, he/she pauses and says <q>pick-up</q>, the Director presses the <i>M</i> key (marker) on the keyboard, thereby producing an <q>error tag</q> on the screen at that particular time and the recording continues.
@@ -225,3 +225,18 @@ This process not only makes the recording session go much faster, but it ensures
 ---
 
 <!-- Page 13 -->
+# <span style="text-transform: uppercase;">Standardized Script Marking</span><!-- "dir" -->
+When a mistake occurs, place a bracket (seen in the sample marked scipt below) at the point in the script where the pickup recording starts, or at the actual edit point.  If there is more than one pick-up for the same mistake, this is noted by a number next to the bracket, signifying how many pick-ups were done in total until the final acceptable one.
+
+Mouth noises are noted with an X in at the spot where the Director hears it.
+
+Long pauses which need tightening are noted by 2 parallel vertical lines (||).
+
+Words in question are circled and usually checked later at a break or at another pick-up point following the questionable word or phrase.
+## Sample Marked Script
+
+_Transcriber's Note: This section is dependent upon the presence of an illustration which will not be embedded into this document._
+
+---
+
+<!-- Page 14 -->
