@@ -253,3 +253,122 @@ We know that your experience at JBI will be a satisfying one.  We hope that you 
 ---
 
 <!-- Page 15 -->
+# Studio Diagram
+_Tanscriber's Note: This page is inherently visual in its content and will not be embedded into this document._
+
+---
+
+<!-- Page 16 -->
+# Mixing Board Diagram
+_Tanscriber's Note: This page is inherently visual in its content and will not be embedded into this document._
+
+---
+
+<!-- Page 17 -->
+# Recording Session Log
+_Transcriber's Note: This landscape page includes sample entries which are not being included in this document._
+
+_Transcriber's Note: The following fill-in fields are present at the top of the recording studio session form._
+* Title
+* Author
+* Narrator
+* <span style="text-transform: uppercase;">Special Notes</span>
+* Moved to QC 
+* Book #
+* Booth
+
+_Transcriber's Note: The following table occupies the remainign space of the recording studio session form._
+
+| Side # | Narrator | Session Date | Begin Time | Begin Page | Studio Used | End Time | End Page | Side End ? | Final Side Time |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| | | | | | | | | | | | |
+| | | | | | | | | | | | |
+| | | | | | | | | | | | |
+| | | | | | | | | | | | |
+| | | | | | | | | | | | |
+| | | | | | | | | | | | |
+| | | | | | | | | | | | |
+| | | | | | | | | | | | |
+| | | | | | | | | | | | |
+| | | | | | | | | | | | |
+| | | | | | | | | | | | |
+| | | | | | | | | | | | |
+| | | | | | | | | | | | |
+| | | | | | | | | | | | |
+
+---
+
+<!-- Page 17 -->
+# Quality Control Sheet
+_Transcriber's Note: This landscape page includes sample entries which are not being included in this document._
+
+_Transcriber's Note: The following fill-in fields are present at the top of the recording studio session form._
+* Book Title
+* Reviewer
+* Narrator
+* Date
+
+_Transcriber's Note: The following table occupies the remainign space of the recording studio session form._
+
+| Side # | Time of Mistake | Page # | Explanation of Problem | 
+| :-: | :-: | :-: | :-: |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+
+---
+
+<!-- Page 19 -->
+# Drawmer Microphone Pre-Amp COntrols
+_Transcriber's Note: The <q><i>diagram on page 19</i></q> is in fact page 21._
+
+Primarily for advanced directors (_see diagram on page 19_).
+
+__Note:__ only the controls associated with the VO microphone recording are labeled.  Please do not adjust or change the other controls.
+
+## Section A: Input
+How much microphone level is coming into the mic pre-amp
+1. <span style="text-transform: uppercase;">Gain
+Turning this control clockwise increases how much mic level comes into the microphone pre-amp
+1. <span style="text-transform: uppercase;">48 V
+This is called <q>phantom power</q>, which is required only when using a <q>condenser</q> type microphone.  <span style="text-transform: uppercase;">Never</span> use phantom power when using a <q>dynamic</q> or <q>ribbon</q> microphone.
+1. <span style="text-transform: uppercase;">Input Level Meter</span>
+How much signal is coming out of this section of the microphone pre-amp.  Optimum level is between -10 and 0.  Never go past that zero setting, as the signal will become distorted.  Because it is phantom powered (see above), a condenser microphone will require less input level than a dynamic or ribbon mc.
+1. <span style="text-transform: uppercase;">Mic</span>
+This button should be in the <q>in</q> position, as it selects <q>mic in</q> instead of <q>line in</q>.
+1. <span style="text-transform: uppercase;">H.P. (High-Pass Filter)</span>
+Filters out all frequencies below 100 Hz (i.e. air conditioner noise/rumble).
+## Section B: Dynamics
+Controls how much microphone level comes out, depending on how these controls are set &mdash; see below.  These will be set up by the Recording Supervisor.
+1. <span style="text-transform: uppercase;">Gate</span>
+We do not use the gate function, as sometime low vlume information can become accidentally cut off.  Please leave this control as you find it: in <q>bypass</q> mode.
+	a. <span style="text-transform: uppercase;">D-Ess</span> (pronounced D S)
+Use this when a Narrator is overly sibilant (when S sounds are too promienet and loud).
+	b. <span style="text-transform: uppercase;">Female/Male</span>
+Select the gender of your Narrator.
+	c. <span style="text-transform: uppercase;">Dess Indicator LED</span>
+Flashes when D-Esser is processing.  Use this visual aid in adjusting the D-Esser.  Do __not__ overuse this function.
+
+---
+
+<!-- Page 20 -->
