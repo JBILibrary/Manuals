@@ -1,4 +1,4 @@
-_Transcriber's Note: This document was keyed in on 2023-06-28_
+_Transcriber's Note: This document was keyed in on 2023-06-28 and -29_
 <style type="text/css">h1{text-transform: uppercase;}</style>
 
 <!-- Cover Page -->
@@ -348,9 +348,9 @@ __Note:__ only the controls associated with the VO microphone recording are labe
 
 ## Section A: Input
 How much microphone level is coming into the mic pre-amp
-1. <span style="text-transform: uppercase;">Gain
+1. <span style="text-transform: uppercase;">Gain</span>
 Turning this control clockwise increases how much mic level comes into the microphone pre-amp
-1. <span style="text-transform: uppercase;">48 V
+1. <span style="text-transform: uppercase;">48 V</span>
 This is called <q>phantom power</q>, which is required only when using a <q>condenser</q> type microphone.  <span style="text-transform: uppercase;">Never</span> use phantom power when using a <q>dynamic</q> or <q>ribbon</q> microphone.
 1. <span style="text-transform: uppercase;">Input Level Meter</span>
 How much signal is coming out of this section of the microphone pre-amp.  Optimum level is between -10 and 0.  Never go past that zero setting, as the signal will become distorted.  Because it is phantom powered (see above), a condenser microphone will require less input level than a dynamic or ribbon mc.
@@ -362,13 +362,24 @@ Filters out all frequencies below 100 Hz (i.e. air conditioner noise/rumble).
 Controls how much microphone level comes out, depending on how these controls are set &mdash; see below.  These will be set up by the Recording Supervisor.
 1. <span style="text-transform: uppercase;">Gate</span>
 We do not use the gate function, as sometime low vlume information can become accidentally cut off.  Please leave this control as you find it: in <q>bypass</q> mode.
-	a. <span style="text-transform: uppercase;">D-Ess</span> (pronounced D S)
+	1. <span style="text-transform: uppercase;">D-Ess</span> (pronounced D S)
 Use this when a Narrator is overly sibilant (when S sounds are too promienet and loud).
-	b. <span style="text-transform: uppercase;">Female/Male</span>
+	1. <span style="text-transform: uppercase;">Female/Male</span>
 Select the gender of your Narrator.
-	c. <span style="text-transform: uppercase;">Dess Indicator LED</span>
+	1. <span style="text-transform: uppercase;">Dess Indicator LED</span>
 Flashes when D-Esser is processing.  Use this visual aid in adjusting the D-Esser.  Do __not__ overuse this function.
 
 ---
 
 <!-- Page 20 -->
+## Section B: Dynamics, Compressor Section
+Used to control unwanted peaks in volume.
+1. <span style="text-transform: uppercase;">Threshold</span>
+Sets the point at which gain reduction is applied to the audio signal
+1. <span style="text-transform: uppercase;">Ratio</span>
+How much level comes in vs. how much the compressor will allow out.  (i.e.: a 4:1 ratio means that for every 4 dB [decibels] of increased volume the compressor will only allow 1 dB in output gain).
+1. <span style="text-transform: uppercase;">Gain</span>
+Overall volume coming out of the dynamics section that feeds into the next section (Equalizer)
+1. <span style="text-transform: uppercase;">Dynamics In/Out Switch</span>
+Should be illuminated, indicating that the dynamics section is active.
+## Section C: Equializer (EQ)
