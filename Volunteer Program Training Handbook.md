@@ -211,3 +211,17 @@ It is also necessary to stop and re-record if any stay noises, such as knocks on
 ---
 
 <!-- Page 12 -->
+# <span style="text-transform: uppercase;">Punch-in-Free Editing Process</span>
+In the current recording procedure, when a mistake occurs, the Director or Narrator stops the recording, and they discuss where to start re-recording.  The Director must find that spot on the waveform, place the blue line in the exact spot to ensure a proper edit, and then press <q>record</q>.  The Narrator hears the playback and then begins recording again.  This process, for anyone other than the most advanced Director and Narrator, is time consuming.  Although the Director may be a precision editor and place the blue line in the perfect spot, this does not ensure that the edit will be perfect.
+
+An alternative to this procedure is as follows: When the Narrator makes a mistake, he/she pauses and says <q>pick-up</q>, the Director presses the <i>M</i> key (marker) on the keyboard, thereby producing an <q>error tag</q> on the screen at that particular time and the recording continues.
+
+If the Director catches a mistake before the Narrator does, he/she simply tells the Narrator via the talk-back mic where to start re-reading.  The Narrator pauses, says <q>pick up</q> and starts again.  The Director presses the <i>M</i> key to flag that start of the new recording.  There is no time wasted making an edit.  The Narrator can maintain his/her <q>flow</q>, and the Director can keep focused on the material and the quality of the recording.
+
+Following the completion of the session, the Director and Narrator play back and review the recording they just made.  They can look at the waveform in wide view and see all the error markers, and know where each mistake is in the recording.  To fix a mistake, the blue line is placed prior to the beginning of the sentence containing the error, highlighted through the fumbled sentence, including the phrase <q>pick-up</q> spoken by the Narrator, right through to the point right before the sentence is re-read.  The entire highlighted area is deleted and the mistake is gone.  Each edit will be checked, and the sentences will flow as if there had been no mistake.
+
+This process not only makes the recording session go much faster, but it ensures that each edit is perfect, and allows the Director to focus on making sure the quality of the recording is error free.
+
+---
+
+<!-- Page 13 -->
