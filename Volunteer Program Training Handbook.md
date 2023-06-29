@@ -139,3 +139,23 @@ Remember to take breaks.  Ask your Narrator to tell you when he or she needs to 
 ---
 
 <!-- Page 9 -->
+## The Recording Software<!-- "dir" -->
+LCM (<span style="text-transform: uppercase;">Low Complexity Mastering</span>) software was designed for the Library of Congress to provide an easy-to-use method for Tlaking-Book production at the LOC's network libraries.  Most of the equipment the volunteer sees on the desk in the studio will be adjusted for each session bt the Staff Supervisor.  The Staff Supervisor will find the correct files and open the program to che correct place to begin recording.
+
+One of hte best ways to the well trained is by observing a qualified staff or experienced Director in action.  At least two one-hour sessions of observation should take place.  THese can be schedueld at your convenience.
+
+During training on this software, you will learn about:
+* <span style="text-transform: uppercase;">Pick-Ups</span>
+Inserts of omissions and replacements of mistakes, and other reasons for re-recording a section.
+* <span style="text-transform: uppercase;">Inserting Markers</span>
+Points on the recording timeline to locate pick-ups or edits to be checked.
+* <span style="text-transform: uppercase;">Adjusting the Pre-Roll</span>
+<q>Pre-roll</q> is the amount of the previous recording the Narrator hears prior to the new <q>pick up</q> point.  Try starting with 5 seconds and adjust as needed.  When a new recording (or insert for re-recording) is being made, the tally LED in the booth will switch to red, indicating that recording has begun.
+* <span style="text-transform: uppercase;">Adjusting Levels</span>
+Levels and soudn quality of the new recording must match those of the previous recording, as there is little or no <q>post production</q> work done to many of these recordings.
+* <span style="text-transform: uppercase;">Viewing the Waveform</span>
+The progress of recording is reflected in the creation of a waveform, a visual representation of the audio signal.  The waveform created by each person's voice is unique to that person.  At the conclusion of recording, the cursor (a vertical line) appears at the beginning of the waveform.  During playback, the cursor tracks along the waveform, moving left to right.  Double-clicking anywhere along the length of the waveform will place the cursor in that position to allow playing, editing or re-recording beginning at that point.
+
+---
+
+<!-- Page 10 -->
