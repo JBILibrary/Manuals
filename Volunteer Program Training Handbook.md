@@ -140,7 +140,7 @@ Remember to take breaks.  Ask your Narrator to tell you when he or she needs to 
 
 <!-- Page 9 -->
 ## The Recording Software<!-- "dir" -->
-LCM (<span style="text-transform: uppercase;">Low Complexity Mastering</span>) software was designed for the Library of Congress to provide an easy-to-use method for Tlaking-Book production at the LOC's network libraries.  Most of the equipment the volunteer sees on the desk in the studio will be adjusted for each session bt the Staff Supervisor.  The Staff Supervisor will find the correct files and open the program to che correct place to begin recording.
+LCM (<span style="text-transform: uppercase;">Low Complexity Mastering</span>) software was designed for the Library of Congress to provide an easy-to-use method for Talking-Book production at the LOC's network libraries.  Most of the equipment the volunteer sees on the desk in the studio will be adjusted for each session bt the Staff Supervisor.  The Staff Supervisor will find the correct files and open the program to che correct place to begin recording.
 
 One of hte best ways to the well trained is by observing a qualified staff or experienced Director in action.  At least two one-hour sessions of observation should take place.  THese can be schedueld at your convenience.
 
@@ -189,3 +189,25 @@ Try to maintain a comfortable pace.
 ---
 
 <!-- Page 11 -->
+* Identifying Narration Errors<!-- "dir" "nar" -->
+The recording session <u>must</u> be interrupted to correct the following errors:
+* <span style="text-transform: uppercase;">Stumbling over Words</span>
+Even partial stumbles, where the Narrator catches him/herself and recovers, must be re-recorded.
+* <span style="text-transform: uppercase;">Narrator Interruptions</span>
+Coughs, throat clearing or stomach noises detected.  These may sound slight to you but they will be louder in the recording than you perceive.
+* <span style="text-transform: uppercase;">Incorrect Pronunciation</span>
+Check if the name is available in the Library of Congress <q>Say How?</q> Directory (www.loc.gov/nls/other/sayhow.html).  If not, agreement must be reached among the Staff Supervisor, Director and Narrator on the pronunciation to be used.  This pronunciation must be noted in the Director's copy of the text for quality control purposes.
+* <span style="text-transform: uppercase;">Incorrect Emphasis</span>
+If, while recording, a sentence doesn't seem to make sense or is confusing, the problem can be due to emphasis placed on the wrong words.  In this case, you should stop recording, rewin, replay, and listen again.  Discuss the emphasis and re-record if necessary.
+* <span style="text-transform: uppercase;">Transposition of words</span>
+Inadvertently switched words in a sentence are not acceptable (even if it still makes sense).
+* <span style="text-transform: uppercase;">Mis-matched Energy and Pacing</span>
+When making a pick-up recording, the Narrator should read along during the pre-roll, so as to match the energy and pacing of the previously recorded segment.
+* <span style="text-transform: uppercase;">Grammatical Errors in the Text</span>
+These errors must not be ignored.  Rather, they must be corrected by the Director/Narrator team.  Errors in the material must be referred to the studio manager for a decision on how to proceed.
+* <span style="text-transform: uppercase;">Stray Noise</span>
+It is also necessary to stop and re-record if any stay noises, such as knocks on the desk, lamp, or microphone, interrupt the session.
+
+---
+
+<!-- Page 12 -->
