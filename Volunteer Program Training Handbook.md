@@ -1,4 +1,4 @@
-_Transcriber's Note: This document was keyed in on 2023-06-28 and -29_
+_Transcriber's Note: This document was keyed in on 2023-06-28, -29, and -07-05_
 <style type="text/css">h1{text-transform: uppercase;}</style>
 
 <!-- Cover Page -->
@@ -383,3 +383,49 @@ Overall volume coming out of the dynamics section that feeds into the next secti
 1. <span style="text-transform: uppercase;">Dynamics In/Out Switch</span>
 Should be illuminated, indicating that the dynamics section is active.
 ## Section C: Equializer (EQ)
+Controls and shapes the tonal quality of sound, like a glorified tone control.  Use these controls to smooth out harsh sounding Narrators, or <q>brighten</q> ones that are dull and not <q>crisp</q>.  Again, do not over use this section &mdash; a little bit of EQ goes a long way.
+1. <span style="text-transform: uppercase;">LF (Low Frequency/Bass) Cut/Boost</span>
+100 Hz.  IF the vey bottom frequencies od the Narrator's tone seem to loud (too much bass), try lowering (cutting) some low frequency content.
+1. <span style="text-transform: uppercase;">Mid Parametric Frequency</span>
+Variable sweep of center frequencies from 150 Hz to 16 kHz.
+1. <span style="text-transform: uppercase;">Bandwidth</span>
+Variable from  to 3 octaves.
+1. <span style="text-transform: uppercase;">Cut/Boost</span>
+Controls the amount of cut (decrease) or boost (increase) midrange EQ.
+1. <span style="text-transform: uppercase;">HF (High Frequency/Treble) Cut/Boost</span>
+Low-pass filter cut or boost above the 4.25 kHz turnover frequency.
+1. <span style="text-transform: uppercase;">EQ <q>In</q></span>
+Switches the EQ section in and out of the signal path.
+## Section D: Tube Sound
+Additional sound shaping
+1. <span style="text-transform: uppercase;">Drive Lo</span>
+Sets the amount of overdrive in the low frequency range
+1. <span style="text-transform: uppercase;">Drive Mid</span>
+Sets the amount of overdrive in the mid frequency range (between 350 Hz and 2 kHz)
+1. <span style="text-transform: uppercase;">Drive Hi</span>
+Sets the amount of overdrive in the high frequency range (from 2 kHz upwards)
+1. <span style="text-transform: uppercase;">TS In</span>
+Switchesthe Tube Sound section in and out
+
+---
+
+<!-- Page 21 -->
+## Section E: Output
+Final Volume which goes to both the recording software and to fader 1 of the Mackie Mixer.
+1. <span style="text-transform: uppercase;">Pre-Fade Limiter (<q>Hard</q>)</span>
+A fixed threshold lmiter set at +16 dBu.  A red LED lights when hard limiting is taking place.  This is more of a protection than a useful tool here at JBI - this LED should NOT be flashing at all.
+1. <span style="text-transform: uppercase;">Master Fader</span>
+Sets the final overall volume level going to the input of the computer sound card, as well as to fader 1 on the Mackie Mixer.
+1. 1. <span style="text-transform: uppercase;">Soft</span>
+An amber LED will illuminate for soft limiting to shouw that the signal level is approaching the hard limit point.
+
+## Drawmer Pre-Amp Diagram
+_Tanscriber's Note: This section is inherently visual in its content and will not be embedded into this document._
+
+---
+
+<!-- Page 22 -->
+# Notes
+_Transcriber's Note: This page consists of horizontally-ruled lines for notes to be added to the volunteer manual and will not be reflected in this document_
+
+---
